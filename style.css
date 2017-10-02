@@ -1,0 +1,18 @@
+body {
+	background-image: url("https://images2.alphacoders.com/710/thumb-1920-710137.png");
+	font-size: 150%;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	width: 80%;
+	margin: auto;
+	background-color: #fff;
+	font-size: 150%;
+	border: 3px solid black;
+	border-radius: 10px;
+	padding: 10px;
+}
